@@ -1,4 +1,4 @@
-# iOSNewApp
+# iOSNewsApp
 **iOS News App is an general MVVM based demo app using New york times public apis, get latest and most popular news by views.
 **
 Xcode Version : 14
