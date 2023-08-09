@@ -13,9 +13,5 @@ target 'iOS News App' do
     pod 'Nimble', '10.0.0'
     pod 'Quick', '5.0.1'
   end
-
-  target 'iOS News AppUITests' do
-    # Pods for testing
-  end
-
+  
 end

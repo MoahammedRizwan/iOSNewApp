@@ -57,7 +57,6 @@ class HomeNewsListViewController: UIViewController {
     }
     
     @IBAction func periodChanged(_ sender: UISegmentedControl) {
-        debugPrint(sender.selectedSegmentIndex)
         switch sender.selectedSegmentIndex {
         case 0:
             period = .today

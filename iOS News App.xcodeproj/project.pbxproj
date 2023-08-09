@@ -16,8 +16,6 @@
 		701F45A12A829199006177C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 701F45A02A829199006177C1 /* Assets.xcassets */; };
 		701F45A42A829199006177C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 701F45A22A829199006177C1 /* LaunchScreen.storyboard */; };
 		701F45AF2A82919A006177C1 /* iOS_News_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701F45AE2A82919A006177C1 /* iOS_News_AppTests.swift */; };
-		701F45B92A82919A006177C1 /* iOS_News_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701F45B82A82919A006177C1 /* iOS_News_AppUITests.swift */; };
-		701F45BB2A82919A006177C1 /* iOS_News_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701F45BA2A82919A006177C1 /* iOS_News_AppUITestsLaunchTests.swift */; };
 		701F45D72A82C511006177C1 /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701F45D62A82C511006177C1 /* AppConstants.swift */; };
 		701F45E22A82CE1B006177C1 /* NewsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701F45E12A82CE1B006177C1 /* NewsModel.swift */; };
 		701F45E42A82CFC8006177C1 /* HomeNewsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 701F45E32A82CFC8006177C1 /* HomeNewsListViewController.swift */; };
@@ -40,18 +38,10 @@
 		708F21472A842DDF00353B47 /* NewsDetailsScreenVC+Stub.swift in Sources */ = {isa = PBXBuildFile; fileRef = 708F21462A842DDF00353B47 /* NewsDetailsScreenVC+Stub.swift */; };
 		708F21492A8434C900353B47 /* Bundle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 708F21482A8434C900353B47 /* Bundle+Extension.swift */; };
 		708F214A2A84390700353B47 /* getMostPopularNews.json in Resources */ = {isa = PBXBuildFile; fileRef = 708F21372A84053B00353B47 /* getMostPopularNews.json */; };
-		94E05C529B1B19D708A81199 /* Pods_iOS_News_App_iOS_News_AppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0047A59147477477019C5E33 /* Pods_iOS_News_App_iOS_News_AppUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
 		701F45AB2A82919A006177C1 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 701F458C2A829196006177C1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 701F45932A829196006177C1;
-			remoteInfo = "iOS News App";
-		};
-		701F45B52A82919A006177C1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 701F458C2A829196006177C1 /* Project object */;
 			proxyType = 1;
@@ -75,9 +65,6 @@
 		701F45A52A829199006177C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		701F45AA2A82919A006177C1 /* iOS News AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS News AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		701F45AE2A82919A006177C1 /* iOS_News_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_News_AppTests.swift; sourceTree = "<group>"; };
-		701F45B42A82919A006177C1 /* iOS News AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS News AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		701F45B82A82919A006177C1 /* iOS_News_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_News_AppUITests.swift; sourceTree = "<group>"; };
-		701F45BA2A82919A006177C1 /* iOS_News_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_News_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		701F45D62A82C511006177C1 /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
 		701F45E12A82CE1B006177C1 /* NewsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsModel.swift; sourceTree = "<group>"; };
 		701F45E32A82CFC8006177C1 /* HomeNewsListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeNewsListViewController.swift; sourceTree = "<group>"; };
@@ -123,14 +110,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		701F45B12A82919A006177C1 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				94E05C529B1B19D708A81199 /* Pods_iOS_News_App_iOS_News_AppUITests.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -162,7 +141,6 @@
 			children = (
 				701F45962A829196006177C1 /* iOS News App */,
 				701F45AD2A82919A006177C1 /* iOS News AppTests */,
-				701F45B72A82919A006177C1 /* iOS News AppUITests */,
 				701F45952A829196006177C1 /* Products */,
 				004494F52ADC2EF4107AEC59 /* Pods */,
 				5962168EB46E9603B1D538CE /* Frameworks */,
@@ -174,7 +152,6 @@
 			children = (
 				701F45942A829196006177C1 /* iOS News App.app */,
 				701F45AA2A82919A006177C1 /* iOS News AppTests.xctest */,
-				701F45B42A82919A006177C1 /* iOS News AppUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -204,15 +181,6 @@
 				701F45AE2A82919A006177C1 /* iOS_News_AppTests.swift */,
 			);
 			path = "iOS News AppTests";
-			sourceTree = "<group>";
-		};
-		701F45B72A82919A006177C1 /* iOS News AppUITests */ = {
-			isa = PBXGroup;
-			children = (
-				701F45B82A82919A006177C1 /* iOS_News_AppUITests.swift */,
-				701F45BA2A82919A006177C1 /* iOS_News_AppUITestsLaunchTests.swift */,
-			);
-			path = "iOS News AppUITests";
 			sourceTree = "<group>";
 		};
 		701F45CF2A82AD46006177C1 /* StoryBoard */ = {
@@ -449,26 +417,6 @@
 			productReference = 701F45AA2A82919A006177C1 /* iOS News AppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		701F45B32A82919A006177C1 /* iOS News AppUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 701F45C42A82919A006177C1 /* Build configuration list for PBXNativeTarget "iOS News AppUITests" */;
-			buildPhases = (
-				AFB476A129401B9586BCB8E8 /* [CP] Check Pods Manifest.lock */,
-				701F45B02A82919A006177C1 /* Sources */,
-				701F45B12A82919A006177C1 /* Frameworks */,
-				701F45B22A82919A006177C1 /* Resources */,
-				73ACBB4571AA0BDA06B5E9D2 /* [CP] Embed Pods Frameworks */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				701F45B62A82919A006177C1 /* PBXTargetDependency */,
-			);
-			name = "iOS News AppUITests";
-			productName = "iOS News AppUITests";
-			productReference = 701F45B42A82919A006177C1 /* iOS News AppUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -483,10 +431,6 @@
 						CreatedOnToolsVersion = 14.0;
 					};
 					701F45A92A82919A006177C1 = {
-						CreatedOnToolsVersion = 14.0;
-						TestTargetID = 701F45932A829196006177C1;
-					};
-					701F45B32A82919A006177C1 = {
 						CreatedOnToolsVersion = 14.0;
 						TestTargetID = 701F45932A829196006177C1;
 					};
@@ -507,7 +451,6 @@
 			targets = (
 				701F45932A829196006177C1 /* iOS News App */,
 				701F45A92A82919A006177C1 /* iOS News AppTests */,
-				701F45B32A82919A006177C1 /* iOS News AppUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -530,13 +473,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				708F21382A84053B00353B47 /* getMostPopularNews.json in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		701F45B22A82919A006177C1 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -593,45 +529,6 @@
 			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-iOS News App-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		73ACBB4571AA0BDA06B5E9D2 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-iOS News App-iOS News AppUITests/Pods-iOS News App-iOS News AppUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-iOS News App-iOS News AppUITests/Pods-iOS News App-iOS News AppUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-iOS News App-iOS News AppUITests/Pods-iOS News App-iOS News AppUITests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		AFB476A129401B9586BCB8E8 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-iOS News App-iOS News AppUITests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -700,15 +597,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		701F45B02A82919A006177C1 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				701F45B92A82919A006177C1 /* iOS_News_AppUITests.swift in Sources */,
-				701F45BB2A82919A006177C1 /* iOS_News_AppUITestsLaunchTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -716,11 +604,6 @@
 			isa = PBXTargetDependency;
 			target = 701F45932A829196006177C1 /* iOS News App */;
 			targetProxy = 701F45AB2A82919A006177C1 /* PBXContainerItemProxy */;
-		};
-		701F45B62A82919A006177C1 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 701F45932A829196006177C1 /* iOS News App */;
-			targetProxy = 701F45B52A82919A006177C1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -954,42 +837,6 @@
 			};
 			name = Release;
 		};
-		701F45C52A82919A006177C1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E4AC005BC03604CF93E255E0 /* Pods-iOS News App-iOS News AppUITests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "training.iOS-News-AppUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "iOS News App";
-			};
-			name = Debug;
-		};
-		701F45C62A82919A006177C1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = D5D8A6EFEFE4656165E8C964 /* Pods-iOS News App-iOS News AppUITests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "training.iOS-News-AppUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "iOS News App";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1016,15 +863,6 @@
 			buildConfigurations = (
 				701F45C22A82919A006177C1 /* Debug */,
 				701F45C32A82919A006177C1 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		701F45C42A82919A006177C1 /* Build configuration list for PBXNativeTarget "iOS News AppUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				701F45C52A82919A006177C1 /* Debug */,
-				701F45C62A82919A006177C1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
