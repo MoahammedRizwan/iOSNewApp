@@ -27,6 +27,10 @@ Produt -> Test or Command + U in Xcode
 
 
 **App Screenshots for reference:**
-<img width="354" alt="Screenshot 2023-08-10 at 2 42 11 AM" src="https://github.com/MoahammedRizwan/iOSNewApp/assets/34263350/aea2038b-d22c-4960-98a0-a9a8a8ea54a3">
-<img width="354" alt="Screenshot 2023-08-10 at 2 42 11 AM" src="https://github.com/MoahammedRizwan/iOSNewApp/assets/34263350/a796ea82-5952-4874-8c81-0b9fd5ae7ab7">
+| **List View** | **Detail Screen **|
+| ------------- | ---------------- |
+| <img width="349" alt="Screenshot 2023-08-10 at 2 41 55 AM" src="https://github.com/MoahammedRizwan/iOSNewApp/assets/34263350/e8763df8-92c5-4acf-990c-8a8aa268cd77"> | <img width="354" alt="Screenshot 2023-08-10 at 2 42 11 AM" src="https://github.com/MoahammedRizwan/iOSNewApp/assets/34263350/aea2038b-d22c-4960-98a0-a9a8a8ea54a3"> |
+
+
+
 
