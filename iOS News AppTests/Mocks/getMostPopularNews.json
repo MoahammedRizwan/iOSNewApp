@@ -1,0 +1,1249 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/7aa92e5d-48ce-51e5-8400-0881393cf5e5",
+            "url": "https://www.nytimes.com/2023/08/06/opinion/dog-parks-bad.html",
+            "id": 100000009023077,
+            "asset_id": 100000009023077,
+            "source": "New York Times",
+            "published_date": "2023-08-06",
+            "updated": "2023-08-08 11:43:02",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Dogs;Animal Behavior;Pets;Parks and Other Recreation Areas;internal-sub-only",
+            "column": null,
+            "byline": "By Julie V. Iovine",
+            "type": "Article",
+            "title": "Dog Parks Are Great for People. Too Bad They’re Terrible for Dogs.",
+            "abstract": "They aren’t oases. They’re thunderdomes for pooches.",
+            "des_facet": [
+                "Dogs",
+                "Animal Behavior",
+                "Pets",
+                "Parks and Other Recreation Areas",
+                "internal-sub-only"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Joohee Yoon",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/06/opinion/sunday/06Iovine/06Iovine-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/06/opinion/sunday/06Iovine/06Iovine-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/06/opinion/sunday/06Iovine/06Iovine-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a697b240-4057-52cf-ab64-843ef2b6b428",
+            "url": "https://www.nytimes.com/2023/08/07/nyregion/cuomo-women-sister-madeline.html",
+            "id": 100000008717537,
+            "asset_id": 100000008717537,
+            "source": "New York Times",
+            "published_date": "2023-08-07",
+            "updated": "2023-08-08 10:57:57",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Politics and Government;Sexual Harassment;Workplace Hazards and Violations;Women and Girls;Social Media;internal-sub-only;Cuomo, Madeline;Behan, Sandy;Cuomo, Andrew M;We Decide New York Inc;New York State",
+            "column": null,
+            "byline": "By Nicholas Fandos",
+            "type": "Article",
+            "title": "The Secret Hand Behind the Women Who Stood by Cuomo? His Sister.",
+            "abstract": "For nearly two years, Madeline Cuomo quietly worked with grass-roots activists to help smear her brother’s accusers. He was “seeing everything,” she told his defenders.",
+            "des_facet": [
+                "Politics and Government",
+                "Sexual Harassment",
+                "Workplace Hazards and Violations",
+                "Women and Girls",
+                "Social Media",
+                "internal-sub-only"
+            ],
+            "org_facet": [
+                "We Decide New York Inc"
+            ],
+            "per_facet": [
+                "Cuomo, Madeline",
+                "Behan, Sandy",
+                "Cuomo, Andrew M"
+            ],
+            "geo_facet": [
+                "New York State"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ben Gabbe/Patrick McMullan, via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/books/00cuomo-women-alt-promo/00cuomo-women-alt-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/books/00cuomo-women-alt-promo/00cuomo-women-alt-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/books/00cuomo-women-alt-promo/00cuomo-women-alt-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9cd68979-a31a-5d17-b946-b627d6a03045",
+            "url": "https://www.nytimes.com/2023/08/04/us/politics/trump-indictment-jack-smith-charges.html",
+            "id": 100000009024257,
+            "asset_id": 100000009024257,
+            "source": "New York Times",
+            "published_date": "2023-08-04",
+            "updated": "2023-08-06 13:38:58",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Federal Criminal Case Against Trump (2020 Election Case);Presidential Election of 2020;Voter Fraud (Election Fraud);Rumors and Misinformation;Voting Rights, Registration and Requirements;Special Prosecutors (Independent Counsel);United States Politics and Government;Trump, Donald J;Smith, Jack (Attorney);Justice Department",
+            "column": null,
+            "byline": "By Charlie Savage",
+            "type": "Article",
+            "title": "How Jack Smith Structured the Trump Election Indictment to Reduce Risks",
+            "abstract": "The special counsel layered varied charges atop the same facts, while sidestepping a free-speech question by not charging incitement.",
+            "des_facet": [
+                "Federal Criminal Case Against Trump (2020 Election Case)",
+                "Presidential Election of 2020",
+                "Voter Fraud (Election Fraud)",
+                "Rumors and Misinformation",
+                "Voting Rights, Registration and Requirements",
+                "Special Prosecutors (Independent Counsel)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Justice Department"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Smith, Jack (Attorney)"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jack Smith’s indictment is a selective take on the efforts by former President Donald J. Trump and his associates to overturn the 2020 election.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/04dc-indict-01-fpvt/04dc-indict-01-fpvt-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/04dc-indict-01-fpvt/04dc-indict-01-fpvt-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/04dc-indict-01-fpvt/04dc-indict-01-fpvt-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/2d03e5fd-ba16-59f2-aa64-fcb2ee52a4dd",
+            "url": "https://www.nytimes.com/interactive/2023/08/01/us/politics/trump-jan-6-indictment-2020-election-annotated.html",
+            "id": 100000009022436,
+            "asset_id": 100000009022436,
+            "source": "New York Times",
+            "published_date": "2023-08-01",
+            "updated": "2023-08-04 17:01:49",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Federal Criminal Case Against Trump (2020 Election Case);Voter Fraud (Election Fraud);Rumors and Misinformation;Storming of the US Capitol (Jan, 2021);Presidential Election of 2020;Special Prosecutors (Independent Counsel);United States Politics and Government;Trump, Donald J;Smith, Jack (Attorney);Justice Department",
+            "column": null,
+            "byline": "By Charlie Savage and Adam Goldman",
+            "type": "Interactive",
+            "title": "The Trump Jan. 6 Indictment, Annotated",
+            "abstract": "The federal indictment unveiled on Tuesday charges former President Donald J. Trump with four crimes related to his efforts to overturn the 2020 election, culminating in the Capitol riot on Jan. 6, 2021.",
+            "des_facet": [
+                "Federal Criminal Case Against Trump (2020 Election Case)",
+                "Voter Fraud (Election Fraud)",
+                "Rumors and Misinformation",
+                "Storming of the US Capitol (Jan, 2021)",
+                "Presidential Election of 2020",
+                "Special Prosecutors (Independent Counsel)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Justice Department"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Smith, Jack (Attorney)"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/01/us/trump-jan-6-indictment-2020-election-annotated-promo/trump-jan-6-indictment-2020-election-annotated-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/01/us/trump-jan-6-indictment-2020-election-annotated-promo/trump-jan-6-indictment-2020-election-annotated-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/01/us/trump-jan-6-indictment-2020-election-annotated-promo/trump-jan-6-indictment-2020-election-annotated-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/93ae4d4b-096d-53e7-81e6-94e0aac81776",
+            "url": "https://www.nytimes.com/2023/08/06/world/europe/putins-forever-war.html",
+            "id": 100000008996197,
+            "asset_id": 100000008996197,
+            "source": "New York Times",
+            "published_date": "2023-08-06",
+            "updated": "2023-08-07 22:08:16",
+            "section": "World",
+            "subsection": "Europe",
+            "nytdsection": "world",
+            "adx_keywords": "Russian Invasion of Ukraine (2022);Nationalism (Theory and Philosophy);International Relations;Politics and Government;Defense and Military Forces;Polls and Public Opinion;Propaganda;Political Prisoners;Human Rights and Human Rights Violations;Freedom of Speech and Expression;vis-photo;Putin, Vladimir V;Wagner Group;Russia;Moscow (Russia)",
+            "column": null,
+            "byline": "By Roger Cohen and Nanna Heitmann",
+            "type": "Article",
+            "title": "Putin’s Forever War",
+            "abstract": "Vladimir Putin wants to lead Russians into a civilizational conflict with the West far larger than Ukraine. Will they follow him?",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Nationalism (Theory and Philosophy)",
+                "International Relations",
+                "Politics and Government",
+                "Defense and Military Forces",
+                "Polls and Public Opinion",
+                "Propaganda",
+                "Political Prisoners",
+                "Human Rights and Human Rights Violations",
+                "Freedom of Speech and Expression",
+                "vis-photo"
+            ],
+            "org_facet": [
+                "Wagner Group"
+            ],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Moscow (Russia)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Putin’s Forever War",
+                    "copyright": "Nanna Heitmann for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/multimedia/00Russia-Journey-01-jkfp-promo/00Russia-Journey-01-jkfp-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/multimedia/00Russia-Journey-01-jkfp-promo/00Russia-Journey-01-jkfp-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/multimedia/00Russia-Journey-01-jkfp-promo/00Russia-Journey-01-jkfp-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f557a00e-b022-58af-a6c4-ad9e6c89b2a2",
+            "url": "https://www.nytimes.com/2023/08/05/opinion/trump-coup-indict-trial.html",
+            "id": 100000009024233,
+            "asset_id": 100000009024233,
+            "source": "New York Times",
+            "published_date": "2023-08-05",
+            "updated": "2023-08-07 09:52:27",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Federal Criminal Case Against Trump (2020 Election Case);Trump, Donald J;Republican Party",
+            "column": null,
+            "byline": "By Maureen Dowd",
+            "type": "Article",
+            "title": "Coup-Coup-Ca-Choo, Trump-Style",
+            "abstract": "Not curtains for Trump the plotter; it’s the entr’acte.",
+            "des_facet": [
+                "Federal Criminal Case Against Trump (2020 Election Case)"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/07/multimedia/05Dowd-fkvm/05Dowd-fkvm-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/07/multimedia/05Dowd-fkvm/05Dowd-fkvm-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/07/multimedia/05Dowd-fkvm/05Dowd-fkvm-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/6417b1ef-6c88-51b9-b093-f278f12f7df8",
+            "url": "https://www.nytimes.com/2023/08/02/us/politics/boris-epshteyn-co-conspirator-6.html",
+            "id": 100000009023583,
+            "asset_id": 100000009023583,
+            "source": "New York Times",
+            "published_date": "2023-08-02",
+            "updated": "2023-08-02 17:35:53",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Federal Criminal Case Against Trump (2020 Election Case);Presidential Election of 2020;Epshteyn, Boris;Trump, Donald J;Giuliani, Rudolph W;Justice Department",
+            "column": null,
+            "byline": "By Maggie Haberman, Jonathan Swan and Luke Broadwater",
+            "type": "Article",
+            "title": "Messages Point to Identity of Co-Conspirator 6 in Trump Indictment",
+            "abstract": "An email sent by Boris Epshteyn, an adviser to the Trump campaign, matches the description of an email that the indictment attributed to one of six unnamed co-conspirators.",
+            "des_facet": [
+                "Federal Criminal Case Against Trump (2020 Election Case)",
+                "Presidential Election of 2020"
+            ],
+            "org_facet": [
+                "Justice Department"
+            ],
+            "per_facet": [
+                "Epshteyn, Boris",
+                "Trump, Donald J",
+                "Giuliani, Rudolph W"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An email from December 2020 from Boris Epshteyn, right, to Rudolph W. Giuliani, center, matches a description in the indictment of former President Donald J. Trump.",
+                    "copyright": "Jonathan Ernst/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/multimedia/02dc-boris-wtlg/02dc-boris-wtlg-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/multimedia/02dc-boris-wtlg/02dc-boris-wtlg-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/multimedia/02dc-boris-wtlg/02dc-boris-wtlg-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8b00ad0c-5875-564a-afe3-873393184fc4",
+            "url": "https://www.nytimes.com/2023/08/07/style/shoes-tourist-vacation.html",
+            "id": 100000009027756,
+            "asset_id": 100000009027756,
+            "source": "New York Times",
+            "published_date": "2023-08-07",
+            "updated": "2023-08-08 09:51:02",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Content Type: Service;Fashion and Apparel",
+            "column": null,
+            "byline": "By Vanessa Friedman",
+            "type": "Article",
+            "title": "Do These Shoes Make Me Look Like a Tourist?",
+            "abstract": "A reader asks: to sneaker or not to sneaker?",
+            "des_facet": [
+                "Content Type: Service",
+                "Fashion and Apparel"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sneakers remain the most comfortable footwear for extended city rambles.",
+                    "copyright": "Edward Berthelot/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/04OpenThread-2-wtgz/04OpenThread-2-wtgz-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/04OpenThread-2-wtgz/04OpenThread-2-wtgz-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/04OpenThread-2-wtgz/04OpenThread-2-wtgz-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/90917ac4-4c38-5605-8f1c-11f790e8bb72",
+            "url": "https://www.nytimes.com/interactive/2023/08/04/briefing/news-quiz-trump-paul-reubens-fitch.html",
+            "id": 100000009026270,
+            "asset_id": 100000009026270,
+            "source": "New York Times",
+            "published_date": "2023-08-04",
+            "updated": "2023-08-04 05:01:00",
+            "section": "Briefing",
+            "subsection": "",
+            "nytdsection": "briefing",
+            "adx_keywords": "Content Type: Quiz",
+            "column": null,
+            "byline": "",
+            "type": "Interactive",
+            "title": "The New York Times News Quiz, August 4, 2023",
+            "abstract": "Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.",
+            "des_facet": [
+                "Content Type: Quiz"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/03/multimedia/NewsQuiz-8-4-fjhb/NewsQuiz-8-4-fjhb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/03/multimedia/NewsQuiz-8-4-fjhb/NewsQuiz-8-4-fjhb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/03/multimedia/NewsQuiz-8-4-fjhb/NewsQuiz-8-4-fjhb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/6cdbff05-a046-5df5-9c14-eb523803814c",
+            "url": "https://www.nytimes.com/interactive/2023/upshot/flashback.html",
+            "id": 100000009023817,
+            "asset_id": 100000009023817,
+            "source": "New York Times",
+            "published_date": "2023-08-05",
+            "updated": "2023-08-06 16:42:31",
+            "section": "The Upshot",
+            "subsection": "",
+            "nytdsection": "the upshot",
+            "adx_keywords": "internal-paywall-exempt;Content Type: Quiz",
+            "column": null,
+            "byline": "",
+            "type": "Interactive",
+            "title": "Flashback: Your Weekly History Quiz",
+            "abstract": "Test your knowledge of history by sorting eight events in chronological order.",
+            "des_facet": [
+                "internal-paywall-exempt",
+                "Content Type: Quiz"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/upshot/flashback-promo-still/flashback-promo-still-thumbStandard-v6.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/upshot/flashback-promo-still/flashback-promo-still-mediumThreeByTwo210-v6.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/upshot/flashback-promo-still/flashback-promo-still-mediumThreeByTwo440-v6.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a7ef515c-2e8b-5c16-8313-ae82553da824",
+            "url": "https://www.nytimes.com/2023/08/03/us/feinstein-husband-estate-family-fortune.html",
+            "id": 100000009011870,
+            "asset_id": 100000009011870,
+            "source": "New York Times",
+            "published_date": "2023-08-03",
+            "updated": "2023-08-05 23:25:06",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Wills and Estates;High Net Worth Individuals;Real Estate and Housing (Residential);Suits and Litigation (Civil);United States Politics and Government;internal-sub-only;Feinstein, Dianne;Blum, Richard;Feinstein, Katherine (1957- );Senate;San Francisco (Calif)",
+            "column": null,
+            "byline": "By Tim Arango and Shawn Hubler",
+            "type": "Article",
+            "title": "For an Ailing Feinstein, a Fight Over the Family Fortune",
+            "abstract": "As Dianne Feinstein, 90, struggles to function in the Senate, a dispute within her family over control of her late husband’s estate is another difficult chapter at the end of a long career.",
+            "des_facet": [
+                "Wills and Estates",
+                "High Net Worth Individuals",
+                "Real Estate and Housing (Residential)",
+                "Suits and Litigation (Civil)",
+                "United States Politics and Government",
+                "internal-sub-only"
+            ],
+            "org_facet": [
+                "Senate"
+            ],
+            "per_facet": [
+                "Feinstein, Dianne",
+                "Blum, Richard",
+                "Feinstein, Katherine (1957- )"
+            ],
+            "geo_facet": [
+                "San Francisco (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Senator Dianne Feinstein is entangled in a messy financial fight with family members.",
+                    "copyright": "Haiyun Jiang for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/01/multimedia/01NAT-FEINSTEIN-01-lmhg/01NAT-FEINSTEIN-01-lmhg-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/01/multimedia/01NAT-FEINSTEIN-01-lmhg/01NAT-FEINSTEIN-01-lmhg-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/01/multimedia/01NAT-FEINSTEIN-01-lmhg/01NAT-FEINSTEIN-01-lmhg-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/837b16ce-e8a9-51a7-8df7-38d13a0700d7",
+            "url": "https://www.nytimes.com/2023/08/02/world/canada/canada-men-switched-at-birth.html",
+            "id": 100000008913688,
+            "asset_id": 100000008913688,
+            "source": "New York Times",
+            "published_date": "2023-08-02",
+            "updated": "2023-08-04 09:00:56",
+            "section": "World",
+            "subsection": "Canada",
+            "nytdsection": "world",
+            "adx_keywords": "Babies and Infants;Indigenous People;Race and Ethnicity;Tests (Medical);Genetics and Heredity;Suits and Litigation (Civil);Content Type: Personal Profile;internal-open-access-from-nl;internal-sub-only;Canada",
+            "column": null,
+            "byline": "By Norimitsu Onishi",
+            "type": "Article",
+            "title": "Switched at Birth, Two Canadians Discover Their Roots at 67",
+            "abstract": "Two Canadian men who were switched at birth to families of different ethnicities are now questioning who they really are and learning how racial heritage shapes identities.",
+            "des_facet": [
+                "Babies and Infants",
+                "Indigenous People",
+                "Race and Ethnicity",
+                "Tests (Medical)",
+                "Genetics and Heredity",
+                "Suits and Litigation (Civil)",
+                "Content Type: Personal Profile",
+                "internal-open-access-from-nl",
+                "internal-sub-only"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Canada"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Alana Paterson for The New York Times; Nasuna Stuart-Ulin for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/24/world/00canada-switched-combo/00canada-switched-combo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/24/world/00canada-switched-combo/00canada-switched-combo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/07/24/world/00canada-switched-combo/00canada-switched-combo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8cb5c18e-351b-5a31-b4d4-659874d5a4a3",
+            "url": "https://www.nytimes.com/2023/08/02/world/americas/justin-trudeau-separate-wife-sophie-gregoire.html",
+            "id": 100000009023578,
+            "asset_id": 100000009023578,
+            "source": "New York Times",
+            "published_date": "2023-08-02",
+            "updated": "2023-08-03 09:49:31",
+            "section": "World",
+            "subsection": "Americas",
+            "nytdsection": "world",
+            "adx_keywords": "Divorce, Separations and Annulments;Politics and Government;Trudeau, Justin;Gregoire-Trudeau, Sophie;Canada",
+            "column": null,
+            "byline": "By Norimitsu Onishi and Vjosa Isai",
+            "type": "Article",
+            "title": "Justin Trudeau Separates From Wife, Sophie Grégoire",
+            "abstract": "The Canadian prime minister and his wife have been married for 18 years and share three children.",
+            "des_facet": [
+                "Divorce, Separations and Annulments",
+                "Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trudeau, Justin",
+                "Gregoire-Trudeau, Sophie"
+            ],
+            "geo_facet": [
+                "Canada"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Justin Trudeau of Canada and his wife, Sophie Grégoire, in Ottawa in March.",
+                    "copyright": "Kenny Holston/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/multimedia/02canada-trudeau-htmj/02canada-trudeau-htmj-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/multimedia/02canada-trudeau-htmj/02canada-trudeau-htmj-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/02/multimedia/02canada-trudeau-htmj/02canada-trudeau-htmj-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/411177ed-ddc3-58d4-8740-45e4bea5fb39",
+            "url": "https://www.nytimes.com/2023/08/07/nyregion/nyc-bookstore-dog-attack.html",
+            "id": 100000009029013,
+            "asset_id": 100000009029013,
+            "source": "New York Times",
+            "published_date": "2023-08-07",
+            "updated": "2023-08-08 23:41:43",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Dogs;Animal Behavior;Pets;Book Trade and Publishing;Suits and Litigation (Civil);La Librairie des Enfants (Manhattan, NY, Retailer);Upper East Side (Manhattan, NY);New York City",
+            "column": null,
+            "byline": "By Andy Newman",
+            "type": "Article",
+            "title": "A Quaint French Bookstore’s Violent Dog Problem Turns Deadly",
+            "abstract": "The owner of a children’s bookshop on the Upper East Side had a German shepherd, Syko, who was known to attack other pets. His latest victim, Baby the toy poodle, died.",
+            "des_facet": [
+                "Dogs",
+                "Animal Behavior",
+                "Pets",
+                "Book Trade and Publishing",
+                "Suits and Litigation (Civil)"
+            ],
+            "org_facet": [
+                "La Librairie des Enfants (Manhattan, NY, Retailer)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Upper East Side (Manhattan, NY)",
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Syko, the white dog second from left, with his siblings and parents on the Upper East Side.",
+                    "copyright": "Lynda Hudson",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/07/nyregion/07ny-dogs/07ny-dogs-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/07/nyregion/07ny-dogs/07ny-dogs-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/07/nyregion/07ny-dogs/07ny-dogs-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ce82ee01-cea0-5591-9c62-054fc8d3f261",
+            "url": "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html",
+            "id": 100000009027633,
+            "asset_id": 100000009027633,
+            "source": "New York Times",
+            "published_date": "2023-08-06",
+            "updated": "2023-08-08 08:56:32",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Facial Recognition Software;Police;False Arrests, Convictions and Imprisonments;Suits and Litigation (Civil);Black People;internal-sub-only;Robberies and Thefts;Woodruff, Porcha;Police Department (Detroit, Mich);Detroit (Mich)",
+            "column": null,
+            "byline": "By Kashmir Hill",
+            "type": "Article",
+            "title": "Eight Months Pregnant and Arrested After False Facial Recognition Match",
+            "abstract": "Porcha Woodruff thought the police who showed up at her door to arrest her for carjacking were joking. She is the first woman known to be wrongfully accused as a result of facial recognition technology.",
+            "des_facet": [
+                "Facial Recognition Software",
+                "Police",
+                "False Arrests, Convictions and Imprisonments",
+                "Suits and Litigation (Civil)",
+                "Black People",
+                "internal-sub-only",
+                "Robberies and Thefts"
+            ],
+            "org_facet": [
+                "Police Department (Detroit, Mich)"
+            ],
+            "per_facet": [
+                "Woodruff, Porcha"
+            ],
+            "geo_facet": [
+                "Detroit (Mich)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Porcha Woodruff, 32, of Detroit, said she gestured at her stomach when the police arrived at her house to indicate how ill-equipped she was to commit a robbery and carjacking.",
+                    "copyright": "Nic Antaya for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/05/multimedia/00false-arrest-tmvh/00false-arrest-tmvh-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/05/multimedia/00false-arrest-tmvh/00false-arrest-tmvh-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/05/multimedia/00false-arrest-tmvh/00false-arrest-tmvh-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/eab3334d-dc7b-55a2-91d8-419a1eefd770",
+            "url": "https://www.nytimes.com/2023/08/05/us/clarence-thomas-rv-anthony-welters.html",
+            "id": 100000008991250,
+            "asset_id": 100000008991250,
+            "source": "New York Times",
+            "published_date": "2023-08-05",
+            "updated": "2023-08-07 07:52:13",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Gifts to Public Officials;Courts and the Judiciary;Ethics and Official Misconduct;Recreational Vehicles;Luxury Goods and Services;internal-sub-only;Thomas, Clarence;Welters, Anthony;Supreme Court (US);Marathon Coach Inc",
+            "column": null,
+            "byline": "By Jo Becker and Julie Tate",
+            "type": "Article",
+            "title": "Clarence Thomas’s $267,230 R.V. and the Friend Who Financed It",
+            "abstract": "The vehicle is a key part of the justice’s just-folks persona. It’s also a luxury motor coach that was funded by someone else’s money.",
+            "des_facet": [
+                "Gifts to Public Officials",
+                "Courts and the Judiciary",
+                "Ethics and Official Misconduct",
+                "Recreational Vehicles",
+                "Luxury Goods and Services",
+                "internal-sub-only"
+            ],
+            "org_facet": [
+                "Supreme Court (US)",
+                "Marathon Coach Inc"
+            ],
+            "per_facet": [
+                "Thomas, Clarence",
+                "Welters, Anthony"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Justice Clarence Thomas, circa 2000, with his great-nephew and his Prevost Le Mirage XL Marathon motor coach.",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/00clarenceRV-top/00clarenceRV-top-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/00clarenceRV-top/00clarenceRV-top-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/00clarenceRV-top/00clarenceRV-top-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/6301dfcf-9199-5152-9eab-b8a53484056c",
+            "url": "https://www.nytimes.com/2023/08/08/us/politics/trump-indictment-fake-electors-memo.html",
+            "id": 100000009031431,
+            "asset_id": 100000009031431,
+            "source": "New York Times",
+            "published_date": "2023-08-08",
+            "updated": "2023-08-09 11:56:48",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Federal Criminal Case Against Trump (2020 Election Case);Electoral Count Act (1887);Legal Profession;Chesebro, Kenneth;Trump, Donald J;Tribe, Laurence H",
+            "column": null,
+            "byline": "By Maggie Haberman, Charlie Savage and Luke Broadwater",
+            "type": "Article",
+            "title": "Previously Secret Memo Laid Out Strategy for Trump to Overturn Biden’s Win",
+            "abstract": "The House Jan. 6 committee’s investigation did not uncover the memo, whose existence first came to light in last week’s indictment.",
+            "des_facet": [
+                "Federal Criminal Case Against Trump (2020 Election Case)",
+                "Electoral Count Act (1887)",
+                "Legal Profession"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Chesebro, Kenneth",
+                "Trump, Donald J",
+                "Tribe, Laurence H"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scheme to use false electors to keep Donald J. Trump in power was perhaps the most sprawling of the various efforts to overturn the results of the 2020 election.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/08/multimedia/08dc-electors-01-zgth/08dc-electors-01-zgth-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/08/multimedia/08dc-electors-01-zgth/08dc-electors-01-zgth-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/08/multimedia/08dc-electors-01-zgth/08dc-electors-01-zgth-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/555b3409-be28-5a7f-90c9-a43d496dd4df",
+            "url": "https://www.nytimes.com/2023/08/05/us/politics/huntsville-space-command-colorado-springs.html",
+            "id": 100000009023315,
+            "asset_id": 100000009023315,
+            "source": "New York Times",
+            "published_date": "2023-08-05",
+            "updated": "2023-08-06 23:14:49",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Space and Astronomy;United States Politics and Government;United States Defense and Military Forces;Military Bases and Installations;National Aeronautics and Space Administration;United States Space Force;Huntsville (Ala);Colorado Springs (Colo)",
+            "column": null,
+            "byline": "By Emily Cochrane",
+            "type": "Article",
+            "title": "The Loss of Space Command Headquarters Brings an Alabama City Down to Earth",
+            "abstract": "Huntsville, a city with a proud history of aerospace innovation, was set to welcome Space Command, until a distant force beyond its control intervened: politics.",
+            "des_facet": [
+                "Space and Astronomy",
+                "United States Politics and Government",
+                "United States Defense and Military Forces",
+                "Military Bases and Installations"
+            ],
+            "org_facet": [
+                "National Aeronautics and Space Administration",
+                "United States Space Force"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Huntsville (Ala)",
+                "Colorado Springs (Colo)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A 363-foot replica of Saturn V that previews a real rocket housed inside the U.S. Space and Rocket Center in Huntsville, Ala.",
+                    "copyright": "Devin Lunsford for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/us/00nat-huntsville/00nat-huntsville-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/us/00nat-huntsville/00nat-huntsville-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/us/00nat-huntsville/00nat-huntsville-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/97c8e149-e2ff-5307-9caf-a48ff19db6fe",
+            "url": "https://www.nytimes.com/2023/08/07/us/politics/desantis-trump-2020-election.html",
+            "id": 100000009029720,
+            "asset_id": 100000009029720,
+            "source": "New York Times",
+            "published_date": "2023-08-07",
+            "updated": "2023-08-07 23:31:23",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;Presidential Election of 2024;Primaries and Caucuses;Rumors and Misinformation;United States Politics and Government;DeSantis, Ron;Trump, Donald J;Republican Party",
+            "column": null,
+            "byline": "By Nicholas Nehamas and Alexandra Berzon",
+            "type": "Article",
+            "title": "DeSantis Bluntly Acknowledges Trump’s 2020 Defeat: ‘Of Course He Lost’",
+            "abstract": "“Joe Biden’s the president,” the Florida governor said in an interview with NBC News. He and other Republican presidential candidates have been testing new lines of attack against Donald Trump.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Presidential Election of 2024",
+                "Primaries and Caucuses",
+                "Rumors and Misinformation",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "DeSantis, Ron",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gov. Ron DeSantis of Florida has been trying to reset his struggling campaign, and his donors have pushed him to moderate his positions to appeal to a broader audience.",
+                    "copyright": "Rachel Mummey for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/07/multimedia/07pol-desantis-trump1-kcgq/07pol-desantis-trump1-kcgq-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/07/multimedia/07pol-desantis-trump1-kcgq/07pol-desantis-trump1-kcgq-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/07/multimedia/07pol-desantis-trump1-kcgq/07pol-desantis-trump1-kcgq-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/48c4d715-87d0-5d23-882f-f205c7081402",
+            "url": "https://www.nytimes.com/2023/08/02/opinion/trump-meritocracy-educated.html",
+            "id": 100000009023947,
+            "asset_id": 100000009023947,
+            "source": "New York Times",
+            "published_date": "2023-08-02",
+            "updated": "2023-08-03 23:30:56",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Income Inequality;Polls and Public Opinion;Presidential Election of 2024;United States Politics and Government;internal-sub-only;Trump, Donald J;Republican Party",
+            "column": null,
+            "byline": "By David Brooks",
+            "type": "Article",
+            "title": "What if We’re the Bad Guys Here?",
+            "abstract": "How the modern meritocracy made Trump inevitable.",
+            "des_facet": [
+                "Income Inequality",
+                "Polls and Public Opinion",
+                "Presidential Election of 2024",
+                "United States Politics and Government",
+                "internal-sub-only"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Evan Vucci/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/02brooks-hqgt/02brooks-hqgt-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/02brooks-hqgt/02brooks-hqgt-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/08/04/multimedia/02brooks-hqgt/02brooks-hqgt-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
